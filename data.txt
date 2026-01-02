@@ -1,4 +1,5 @@
 Welcome to Devloper Field
 
-x=10
-y=1000
+y=100
+y=50000
+
